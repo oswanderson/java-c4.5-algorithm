@@ -1,0 +1,21 @@
+@RELATION wine
+	
+@ATTRIBUTE alcohol		        REAL		
+@ATTRIBUTE malicAcid		    REAL
+@ATTRIBUTE Ash			        REAL
+@ATTRIBUTE mlcalinityAsh 	    REAL
+@ATTRIBUTE magnesium		    REAL
+@ATTRIBUTE totalPhenols		    REAL
+@ATTRIBUTE flavanoids		    REAL
+@ATTRIBUTE nonflavanoidPhenols	REAL
+@ATTRIBUTE proanthocyanins 	    REAL
+@ATTRIBUTE colorIntensity	    REAL
+@ATTRIBUTE hue			        REAL
+@ATTRIBUTE dilution		        REAL
+@ATTRIBUTE proline		        REAL
+@ATTRIBUTE class {groupOne,groupTwo,groupThree}
+
+@DATA
+%
+%
+%
